@@ -1,5 +1,7 @@
 # frogger
 
+## Overview
+
  THIS CODE IS WRITTEN IN ASSEMBLY AND IT HAS BEEN DEPLOYED TO BE EXECUTED ON MARS 4.5
 
  THIS GAME IS INSPIRED FROM THE GAME FROM THE 80's "FROGGER"
@@ -17,6 +19,8 @@
  to visualize the game and "Keyboard and Display MMIO Simulator" which are present
  under the tab "Tools"
 
+## Settings
+
  The settings for the Bitmap Display are the following
 
  Bitmap Display Configuration:
@@ -27,6 +31,8 @@
  - Base Address for Display: 0x10008000 ($gp)
 
  After having selected the correct parameters you can connect display and keyboard to MIPS
+
+## Game instructions
 
 
 	To move press WASD
