@@ -1,12 +1,5 @@
 # frogger
 
-	-------     -----      --------     --------      --------       -------      ----- 
-	|           |    |     |      |     |             |              |            |    |
-	|----       |----      |      |     |   ---|      |   ---|       |----        |---- 
-	|           |\         |      |     |      |      |      |       |            |\
-	|           | \        --------     -------|      -------|       -------      | \
-
-
  THIS CODE IS WRITTEN IN ASSEMBLY AND IT HAS BEEN DEPLOYED TO BE EXECUTED ON MARS 4.5
 
  THIS GAME IS INSPIRED FROM THE GAME FROM THE 80's "FROGGER"
